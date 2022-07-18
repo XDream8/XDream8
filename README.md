@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
+- 🌱 I’m currently learning nim
+
 <!--
 **XDream8/XDream8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Stats](https://github-readme-stats.vercel.app/api/?username=XDream8&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight)
