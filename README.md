@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ⚡ I'm currently using gentoo linux.
 - 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
 - 🌱 I’m currently learning nim
 
