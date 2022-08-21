@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm currently using venom linux.
+- ⚡ I'm currently using void linux.
 - 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
 - 🌱 I’m currently learning nim
 
