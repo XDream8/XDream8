@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm currently using [carbs linux](https://carbslinux.org) 💙.
+- ⚡ I'm currently using [kiss linux](https://kisslinux.org)
 - 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
 - 🌱 I’m currently learning nim
 
