@@ -2,7 +2,7 @@
 
 - ⚡ I'm currently using [kiss linux](https://kisslinux.org)
 - 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
-- 🌱 I’m currently learning nim
+- 🌱 I’m currently learning rust and nim
 
 <!--
 **XDream8/XDream8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
