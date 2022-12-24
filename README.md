@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**GitHub Stats ⚡**
+
 ![Stats](https://github-readme-stats.vercel.app/api/?username=XDream8&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+Top+Languages&layout=compact)
