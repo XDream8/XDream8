@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- ⚡ I'm currently using [void linux(mainly)](https://voidlinux.org) and [kiss linux](https://kisslinux.org)
+- ⚡ I'm currently using [kiss linux](https://kisslinux.org)
 - 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
 - 🌱 I’m currently learning rust and nim
 
