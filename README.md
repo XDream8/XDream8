@@ -1,9 +1,10 @@
 
 ### Hi there 👋
 
-- ⚡ I'm currently using [kiss linux](https://kisslinux.org)
-- 🔭 I’m currently working on [revanced-creator](https://github.com/XDream8/revanced-creator)
-- 🌱 I’m currently learning rust and nim
+I moved to codeberg:
+[codeberg.org/XDream8](https://codeberg.org/XDream8)
+
+all new repositories will be there!
 
 <!--
 **XDream8/XDream8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +27,4 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api/?username=XDream8&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDream8&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=XDream8%27s+Top+Languages&layout=compact)
----
-**WakaTime Stats ⚡**
-
-![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=XDream8&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=XDream8%27s+WakaTime+Stats&layout=compact)
-
 ---
