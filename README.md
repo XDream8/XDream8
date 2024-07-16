@@ -4,6 +4,8 @@
 I moved to codeberg:
 [codeberg.org/XDream8](https://codeberg.org/XDream8)
 
+Some repositories will continue to stay here and some of them will be mirrored.
+
 all new repositories will be there!
 
 <!--
