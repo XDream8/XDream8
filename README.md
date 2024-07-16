@@ -6,8 +6,6 @@ I moved to codeberg:
 
 Some repositories will continue to stay here and some of them will be mirrored.
 
-all new repositories will be there!
-
 <!--
 **XDream8/XDream8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
