@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 ---
 **GitHub Stats ⚡**
 
-![Stats](https://github-readme-stats.vercel.app/api/?username=XDream8&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)
+[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/XDream8?cardType=level&theme=tokyonight&fontFamily=Fira%20Code&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDream8&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=XDream8%27s+Top+Languages&layout=compact)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=XDream8&theme=tokyonight)
 ---
